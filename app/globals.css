@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700;800&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&family=JetBrains+Mono:wght@400;500&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --brand: #f97316;
+    --brand-dark: #ea580c;
+    --ink: #0f0e0d;
+    --cream: #faf8f5;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background-color: #faf8f5;
+    color: #0f0e0d;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Sora', sans-serif;
+    font-weight: 700;
+    line-height: 1.15;
+  }
+}
+
+@layer components {
+  .delay-100 { animation-delay: 100ms; }
+  .delay-200 { animation-delay: 200ms; }
+  .delay-300 { animation-delay: 300ms; }
+  .delay-400 { animation-delay: 400ms; }
+  .delay-500 { animation-delay: 500ms; }
+
+  .animate-on-load { opacity: 0; }
+
+  .btn-primary {
+    @apply inline-flex items-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-semibold px-6 py-3 rounded-xl transition-all duration-200 hover:scale-[1.02] active:scale-[0.98];
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center gap-2 bg-black text-white font-semibold px-6 py-3 rounded-xl transition-all duration-200 hover:bg-gray-800 hover:scale-[1.02] active:scale-[0.98];
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center gap-2 border-2 border-black text-black font-semibold px-6 py-3 rounded-xl transition-all duration-200 hover:bg-black hover:text-white active:scale-[0.98];
+  }
+
+  .card {
+    @apply bg-white rounded-2xl shadow-sm border border-gray-200 hover:shadow-md transition-all duration-200;
+  }
+
+  .badge {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold uppercase tracking-wider;
+  }
+
+  .badge-orange {
+    @apply bg-orange-100 text-orange-700;
+  }
+
+  .badge-green {
+    @apply bg-green-100 text-green-700;
+  }
+
+  .badge-blue {
+    @apply bg-blue-100 text-blue-700;
+  }
+
+  .container-site {
+    @apply max-w-6xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .prose-blog h2 {
+    @apply text-2xl font-bold text-black mt-10 mb-4 pb-2 border-b border-gray-200;
+  }
+
+  .prose-blog h3 {
+    @apply text-xl font-semibold text-black mt-8 mb-3;
+  }
+
+  .prose-blog p {
+    @apply text-gray-700 leading-relaxed mb-4;
+  }
+
+  .prose-blog ul {
+    @apply list-disc list-inside space-y-2 mb-4 text-gray-700;
+  }
+
+  .prose-blog ol {
+    @apply list-decimal list-inside space-y-2 mb-4 text-gray-700;
+  }
+
+  .prose-blog a {
+    @apply text-orange-600 hover:text-orange-700 underline underline-offset-2;
+  }
+
+  .prose-blog strong {
+    @apply font-semibold text-black;
+  }
+
+  .prose-blog blockquote {
+    @apply border-l-4 border-orange-400 pl-4 italic text-gray-600 my-6;
+  }
+
+  .comparison-table {
+    @apply w-full border-collapse rounded-xl overflow-hidden shadow-sm;
+  }
+
+  .comparison-table th {
+    @apply bg-black text-white font-semibold px-4 py-3 text-left text-sm;
+  }
+
+  .comparison-table td {
+    @apply px-4 py-3 text-sm text-gray-700 border-b border-gray-200;
+  }
+
+  .comparison-table tr:nth-child(even) td {
+    @apply bg-gray-100;
+  }
+
+  .comparison-table tr:last-child td {
+    @apply border-b-0;
+  }
+}
+
+.toc-link {
+  @apply block text-sm text-gray-600 hover:text-orange-600 py-1 border-l-2 border-transparent hover:border-orange-400 pl-3 transition-all duration-150;
+}
+
+.toc-link.active {
+  @apply text-orange-600 border-orange-500 font-medium;
+}
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #faf8f5; }
+::-webkit-scrollbar-thumb { background: #d1cdc7; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #b8b2ab; }
+
+::selection { background: #fdba74; color: #0f0e0d; }
