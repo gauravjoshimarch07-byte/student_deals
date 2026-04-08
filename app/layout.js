@@ -12,6 +12,12 @@ export const metadata = {
   keywords: ['budget products for students', 'best products under 1000', 'student deals India', 'cheap tech for students'],
   authors: [{ name: 'StudentDeals Team' }],
   creator: 'StudentDeals',
+
+  // ✅ ADD THIS PART
+  verification: {
+    google: "pHhQekovvxCwJyPFTBg6wIV-OCrci1ddcHeiT7cqsFs",
+  },
+
   openGraph: {
     type: 'website',
     locale: 'en_IN',
@@ -34,7 +40,6 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <meta name="google-site-verification" content="pHhQekovvxCwJyPFTBg6wIV-OCrci1ddcHeiT7cqsFs" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="canonical" href="https://studentdeals.in" />
       </head>
