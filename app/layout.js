@@ -34,6 +34,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
+        <meta name="google-site-verification" content="pHhQekovvxCwJyPFTBg6wIV-OCrci1ddcHeiT7cqsFs" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="canonical" href="https://studentdeals.in" />
       </head>
