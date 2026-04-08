@@ -1,7 +1,7 @@
 export default function sitemap() {
   return [
     {
-      url: 'https://studentdeals.in',
+      url: 'https://student-deals-jade.vercel.app',
       lastModified: new Date(),
     },
   ];
