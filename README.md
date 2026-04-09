@@ -87,7 +87,7 @@ Create a new `.md` file in `content/posts/`:
 ```markdown
 ---
 title: "5 Best Budget Headphones for Students Under ₹2000"
-date: "2024-07-01"
+date: "2026-07-01"
 category: "Tech"
 description: "We tested 10+ headphones so you don't have to. Here are the top 5 picks."
 thumbnail: "https://images.unsplash.com/photo-xxx?w=800&q=75"
