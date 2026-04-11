@@ -38,7 +38,7 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 ### 1. boAt BassHeads 100 (Best Overall)
 
-**Price:** ₹399 – ₹599  
+**Price:** ₹299 – ₹399  
 
 - Deep bass sound  
 - Lightweight design  
@@ -46,7 +46,7 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 👉 Perfect for everyday use
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/4elVJnc)
 
 ---
 
@@ -74,7 +74,7 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 👉 Ideal for music lovers
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/4t8Sapg)
 
 ---
 
@@ -88,7 +88,7 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 👉 Long-term safe option
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/4elXH74)
 
 ---
 
@@ -102,13 +102,13 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 👉 Best for lectures & calls
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/4vndmJp)
 
 ---
 
 ### 6. boAt BassHeads 225 (Best Bass Lovers)
 
-**Price:** ₹599 – ₹899  
+**Price:** ₹399 – ₹599  
 
 - Extra bass output  
 - Stylish design  
@@ -116,13 +116,13 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 👉 For heavy music listeners
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/4c9HteA)
 
 ---
 
 ### 7. Boult Audio BassBuds X1 (Best for Calls)
 
-**Price:** ₹599 – ₹799  
+**Price:** ₹299 – ₹499  
 
 - Good mic quality  
 - Strong bass  
@@ -130,13 +130,13 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 👉 Best for online classes
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/3OjjPEL)
 
 ---
 
 ### 8. Noise Buds VS102 Neo (Budget Wireless Pick)
 
-**Price:** Around ₹999 (on deals)
+**Price:** Around ₹999 - ₹1199 (on deals)
 
 - Wireless earbuds  
 - Decent battery life  
@@ -144,7 +144,7 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 👉 Entry-level wireless option
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/41wfX6i)
 
 ---
 
@@ -158,7 +158,7 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 👉 Best for basic needs
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →]()
 
 ---
 
@@ -172,7 +172,7 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 👉 Best for tight budgets
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/41op49d)
 
 ---
 

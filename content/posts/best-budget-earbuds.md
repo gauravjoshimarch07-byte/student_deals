@@ -22,7 +22,7 @@ The problem? Most earbuds at ₹1000 used to be... trash. But 2026 is different.
 
 ### 1. boAt Airdopes 141 — Best Overall
 
-**Price: ₹999** | Rating: 4.5/5
+**Price: ₹799** | Rating: 4.5/5
 
 The boAt Airdopes 141 is the king of budget earbuds in India — and for good reason.
 
@@ -44,9 +44,9 @@ The boAt Airdopes 141 is the king of budget earbuds in India — and for good re
 
 ---
 
-### 2. Realme Buds T100 — Best Battery Life
+### 2. Realme Buds T110 — Best Battery Life
 
-**Price: ₹799** | Rating: 4.2/5
+**Price: ₹999** | Rating: 4.2/5
 
 Realme's budget offering punches way above its price tag. The T100 offers insane value with 28 hours of total battery life and surprisingly good call quality.
 
@@ -63,7 +63,7 @@ Realme's budget offering punches way above its price tag. The T100 offers insane
 
 **Best for:** Students who take a lot of calls
 
-[Check Price on Amazon →](https://amazon.in/?tag=studentdeals-21)
+[Check Price on Amazon →](https://amzn.to/4ciI4Lf)
 
 ---
 
@@ -92,7 +92,7 @@ JBL's Pure Bass sound is legendary, and the Tune 215BT brings that experience to
 
 ### 4. Noise Buds VS104 — Best Design
 
-**Price: ₹899** | Rating: 4.0/5
+**Price: ₹999** | Rating: 4.0/5
 
 If you want your earbuds to look good AND sound decent, Noise delivers. The VS104 comes in some amazing colorways and has a satisfying premium feel.
 
@@ -109,7 +109,7 @@ If you want your earbuds to look good AND sound decent, Noise delivers. The VS10
 
 **Best for:** Students who care about aesthetics
 
-[Check Price on Amazon →](https://amazon.in/?tag=studentdeals-21)
+[Check Price on Amazon →](https://amzn.to/3OuSlMq)
 
 ---
 

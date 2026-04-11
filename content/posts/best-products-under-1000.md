@@ -73,7 +73,7 @@ Perfect for attending lectures, watching videos, or relaxing with music.
 
 ### 2. Zebronics Zeb-Transformer Gaming Keyboard
 
-**Approx Price:** ₹699 – ₹999
+**Approx Price:** ₹999 – ₹1099
 
 If you spend a lot of time on your laptop, this keyboard is a game-changer.
 
@@ -87,7 +87,7 @@ If you spend a lot of time on your laptop, this keyboard is a game-changer.
 **Why it’s good for students:**
 Great for typing assignments, coding, or casual gaming.
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/4swnRrs)
 
 👉 Explore more:
 👉 [Best Keyboards Under ₹1000](#)
@@ -96,7 +96,7 @@ Great for typing assignments, coding, or casual gaming.
 
 ### 3. Portronics POR-343 USB Hub
 
-**Approx Price:** ₹299 – ₹499
+**Approx Price:** ₹499 – ₹599
 
 Running out of USB ports? This solves that problem instantly.
 
@@ -110,7 +110,7 @@ Running out of USB ports? This solves that problem instantly.
 **Why it’s good for students:**
 Ideal for connecting multiple devices at once.
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/4mtEP8A)
 
 ---
 
@@ -159,7 +159,7 @@ Helps you stay active and connected.
 
 ### 6. Amazon Basics Laptop Sleeve (15.6 inch)
 
-**Approx Price:** ₹300 – ₹700
+**Approx Price:** ₹300 – ₹500
 
 Protect your laptop without spending too much.
 
@@ -173,7 +173,7 @@ Protect your laptop without spending too much.
 **Why it’s good for students:**
 Keeps your laptop safe while traveling.
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/4so4tN5)
 
 ---
 
@@ -193,7 +193,7 @@ You’ll always need notebooks — why not get quality ones?
 **Why it’s good for students:**
 Perfect for daily notes and assignments.
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/3O0amCe)
 
 ---
 
@@ -219,7 +219,7 @@ Better control than touchpad for long usage.
 
 ### 9. Portronics Power Brick 10K Power Bank
 
-**Approx Price:** ₹799 – ₹999
+**Approx Price:** ₹699 – ₹799
 
 No more low battery stress.
 
@@ -233,7 +233,7 @@ No more low battery stress.
 **Why it’s good for students:**
 Perfect for college, travel, and daily use.
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/3Oh8THy)
 
 👉 Explore more:
 👉 [Best Power Banks Under ₹1000](#)
@@ -256,7 +256,7 @@ Health matters too.
 **Why it’s good for students:**
 Stay fit without spending on gym memberships.
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/3Oe7KAI)
 
 ---
 
