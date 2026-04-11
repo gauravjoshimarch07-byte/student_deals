@@ -40,7 +40,7 @@ The boAt Airdopes 141 is the king of budget earbuds in India — and for good re
 
 **Best for:** Everyday use, commutes, gym sessions
 
-[Check Price on Amazon →](https://amazon.in/?tag=studentdeals-21)
+[Check Price on Amazon →](https://amzn.to/4vnt1sp)
 
 ---
 
