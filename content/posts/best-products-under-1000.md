@@ -66,8 +66,8 @@ Perfect for attending lectures, watching videos, or relaxing with music.
 
 👉 🔗 Check Latest Price on Amazon
 
-👉 Want more options?
-👉 [Best Earphones Under ₹1000 for Students](#)
+👉 Want more options? 
+👉 [Best Earphones Under ₹1000 for Students](/blog/best-earphones-under-1000)
 
 ---
 
