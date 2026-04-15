@@ -50,9 +50,9 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 ---
 
-### 2. boAt BassHeads 152 (Best Stylish Pick)
+### 2. boAt BassHeads 225 (Best Stylish Pick)
 
-**Price:** ₹499 – ₹699  
+**Price:** ₹399 – ₹599  
 
 - Premium metallic finish  
 - Strong bass  
@@ -60,7 +60,7 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 👉 Great combo of style + performance
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/4msmubM)
 
 ---
 
@@ -148,7 +148,7 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 ---
 
-### 9. Realme Buds Classic (Best Basic Use)
+### 9. Realme Wired Buds 3 (Best Basic Use)
 
 **Price:** ₹399 – ₹599  
 
@@ -158,7 +158,7 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 👉 Best for basic needs
 
-[Check Price on Amazon →]()
+[Check Price on Amazon →](https://amzn.to/4vwuhth)
 
 ---
 
@@ -181,14 +181,14 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 | Model | Type | Best For |
 |------|------|---------|
 | boAt 100 | Wired | Daily use |
-| boAt 152 | Wired | Style + bass |
+| boAt 225 | Wired | Style + bass |
 | Realme Neo | Wired | Sound quality |
 | JBL C50HI | Wired | Reliability |
 | Sony EX15AP | Wired | Clarity |
 | boAt 225 | Wired | Bass |
 | Boult X1 | Wired | Calls |
 | Noise VS102 | Wireless | Freedom |
-| Realme Classic | Wired | Basic use |
+| Realme Bud 3 | Wired | Basic use |
 | Portronics Beta | Wired | Budget |
 
 ---
