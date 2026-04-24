@@ -24,6 +24,8 @@ In this guide, we’ve handpicked the **best keyboards under ₹1000 for student
 
 ### 1. Logitech K120 Wired Keyboard — Best Overall
 
+![Logitech K120 Keyboard](/images/logitech-k120.png)
+
 **Price: ₹500 – ₹700** | Rating: 4.5/5  
 
 A highly reliable keyboard trusted by millions. It offers a comfortable typing experience and long-lasting durability.
