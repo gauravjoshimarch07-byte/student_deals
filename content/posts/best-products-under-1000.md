@@ -114,9 +114,9 @@ Ideal for connecting multiple devices at once.
 
 ---
 
-### 4. Wipro 9W LED Study Lamp
+### 4. Wipro Re-Chargeable LED Table Lamp
 
-**Approx Price:** ₹400 – ₹800
+**Approx Price:** ₹500 – ₹800
 
 Good lighting = better focus.
 
@@ -130,7 +130,7 @@ Good lighting = better focus.
 **Why it’s good for students:**
 Reduces eye strain during long study hours.
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/4u4tcat)
 
 👉 Explore more:
 👉 [Best Study Lamps Under ₹1000](#)
@@ -139,9 +139,9 @@ Reduces eye strain during long study hours.
 
 ### 5. Noise Pulse Go Buzz Smartwatch (Deals)
 
-**Approx Price:** Around ₹999 (during offers)
+**Approx Price:** Around ₹1500 (during offers)
 
-A smartwatch under ₹1000? Yes, if you grab the right deal.
+A smartwatch under ₹1500? Yes, if you grab the right deal.
 
 **Key Features:**
 
@@ -153,7 +153,7 @@ A smartwatch under ₹1000? Yes, if you grab the right deal.
 **Why it’s good for students:**
 Helps you stay active and connected.
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/4eGDxF2)
 
 ---
 
@@ -197,9 +197,9 @@ Perfect for daily notes and assignments.
 
 ---
 
-### 8. HP X1000 Wired Mouse
+### 8. HP M10 Wired USB Mouse 
 
-**Approx Price:** ₹299 – ₹499
+**Approx Price:** ₹250 – ₹350
 
 A simple upgrade that improves productivity.
 
@@ -213,7 +213,7 @@ A simple upgrade that improves productivity.
 **Why it’s good for students:**
 Better control than touchpad for long usage.
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/4vMr9tg)
 
 ---
 
@@ -264,7 +264,7 @@ Stay fit without spending on gym memberships.
 
 Want more options? Dive deeper into each category:
 
-* 🎧 [Best Earphones Under ₹1000](#)
+* 🎧 [Best Earphones Under ₹1000](/blog/best-earphones-under-1000)
 * ⌨️ [Best Keyboards Under ₹1000](#)
 * 🔋 [Best Power Banks Under ₹1000](#)
 * 💡 [Best Study Lamps Under ₹1000](#)

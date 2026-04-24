@@ -67,26 +67,26 @@ Realme's budget offering punches way above its price tag. The T100 offers insane
 
 ---
 
-### 3. JBL Tune 215BT — Best for Music Lovers
+### 3. GOBOULT Z20 — Best for Gaming & Battery Backup
 
-**Price: ₹999** | Rating: 4.3/5
+**Price: ₹699 – ₹799** | Rating: 4.2/5  
 
-JBL's Pure Bass sound is legendary, and the Tune 215BT brings that experience to under ₹1000. These are in-ear (wired-style) Bluetooth earphones rather than true wireless — but the sound quality is noticeably better.
+GOBOULT Z20 earbuds are a strong budget option offering a great mix of battery life and low latency performance. With Bluetooth 5.3 and ENC support, they are ideal for students who want smooth connectivity and clear calling.
 
 **Pros:**
-- JBL Pure Bass sound profile
-- 6-hour battery (solid for the style)
-- Premium-feeling build
-- Strong brand reputation
+- Up to 40 hours total playback  
+- Low latency gaming mode (~45ms)  
+- ENC (Environmental Noise Cancellation) for clearer calls  
+- Type-C fast charging (15 min = ~100 min playback)  
 
 **Cons:**
-- Not truly wireless (wire between earpieces)
-- No touch controls
-- Charging via micro-USB (not Type-C)
+- Sound quality is bass-focused, not very balanced  
+- Build feels average  
+- No active noise cancellation (ANC)  
 
-**Best for:** Audiophile students who prioritize sound quality
+**Best for:** Gamers, long usage, students needing strong battery backup  
 
-[Check Price on Amazon →](https://amazon.in/?tag=studentdeals-21)
+[Check Price on Amazon →](https://amzn.to/4tDtPIw)
 
 ---
 
@@ -113,26 +113,26 @@ If you want your earbuds to look good AND sound decent, Noise delivers. The VS10
 
 ---
 
-### 5. Redmi Buds 4 Lite — Best for Xiaomi Users
+### 5. Noise Buds Trance — Best for Battery Backup
 
-**Price: ₹999** | Rating: 4.1/5
+**Price: ₹899 – ₹999** | Rating: 4.2/5  
 
-Redmi's budget earbuds integrate beautifully into the Xiaomi ecosystem. If you have a Redmi or Poco phone, the instant pairing and low latency make these a no-brainer.
+Noise Buds Trance are one of the best options in this budget segment, especially for students who want long battery life and stable connectivity. With Bluetooth 5.3 and ultra-low latency, they are suitable for both daily use and casual gaming.
 
 **Pros:**
-- 28 hours total battery
-- Low latency gaming mode
-- Type-C charging
-- Instant pairing with Xiaomi devices
+- Up to 45 hours total battery life  
+- Low latency mode (up to 40ms) for gaming  
+- Instacharge (10 min = 200 min playback)  
+- IPX5 water resistance  
 
 **Cons:**
-- Sound is average outside the ecosystem
-- Mic quality is mediocre
-- No active noise cancellation
+- Sound quality is balanced but not bass-heavy  
+- No active noise cancellation  
+- Mic quality is average in noisy areas  
 
-**Best for:** Xiaomi/Redmi phone users, gamers
+**Best for:** Long usage, gaming, students needing strong battery backup  
 
-[Check Price on Amazon →](https://amazon.in/?tag=studentdeals-21)
+[Check Price on Amazon →](https://amzn.to/4mRojPM)
 
 ---
 
@@ -142,9 +142,9 @@ Redmi's budget earbuds integrate beautifully into the Xiaomi ecosystem. If you h
 |---|---|---|---|---|---|
 | boAt Airdopes 141 | ₹999 | 42 hrs | ✅ IPX4 | ✅ | Overall best |
 | Realme Buds T100 | ₹799 | 28 hrs | ❌ | ✅ | Calls |
-| JBL Tune 215BT | ₹999 | 6 hrs | ❌ | ❌ | Sound quality |
+|  GOBOULT Z20 | ₹699 | 40 hrs | ❌ | ❌ | Gaming |
 | Noise Buds VS104 | ₹899 | 24 hrs | ✅ | ✅ | Design |
-| Redmi Buds 4 Lite | ₹999 | 28 hrs | ❌ | ✅ | Xiaomi users |
+| Noise Buds Trance | ₹999 | 45 hrs | ❌ | ✅ | Battery |
 
 ---
 
@@ -152,9 +152,9 @@ Redmi's budget earbuds integrate beautifully into the Xiaomi ecosystem. If you h
 
 **Top Pick:** boAt Airdopes 141 — Best overall value at ₹999 with 42 hours battery, IPX4 rating, and reliable performance.
 
-**Budget Pick:** Realme Buds T100 — At ₹799, the best call quality in this price range.
+**Budget Pick:** Realme Buds T110 — At ₹999, the best call quality in this price range.
 
-**Sound Quality Pick:** JBL Tune 215BT — If sound matters most to you, JBL's heritage shines through.
+**Sound Quality Pick:**  GOBOULT Z20 — If sound matters most to you, JBL's heritage shines through.
 
 ---
 
@@ -164,7 +164,7 @@ Redmi's budget earbuds integrate beautifully into the Xiaomi ecosystem. If you h
 A: Absolutely. The budget earbud market in India has improved dramatically. Brands like boAt, Realme, and Noise offer impressive specs at ₹1000 that rivals ₹3000+ products from a few years ago.
 
 **Q: Which earbuds are best for online classes and calls?**
-A: The Realme Buds T100 has the best microphone quality in this list, making it ideal for online classes and calls.
+A: The Realme Buds T110 has the best microphone quality in this list, making it ideal for online classes and calls.
 
 **Q: Do these earbuds work with iPhones?**
 A: Yes, all Bluetooth earbuds work with iPhones. However, ecosystem features like instant pairing may not work.
