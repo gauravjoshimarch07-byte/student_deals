@@ -90,7 +90,7 @@ Great for typing assignments, coding, or casual gaming.
 [Check Price on Amazon →](https://amzn.to/4swnRrs)
 
 👉 Explore more:
-👉 [Best Keyboards Under ₹1000](#)
+👉 [Best Keyboards Under ₹1000](/blog/best-budget-keyboards)
 
 ---
 
