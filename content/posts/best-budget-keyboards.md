@@ -47,6 +47,8 @@ A highly reliable keyboard trusted by millions. It offers a comfortable typing e
 
 ### 2. Dell KB216 Wired Multimedia Keyboard — Best for Office Use
 
+![Dell kb216 Keyboard](/images/dell-kb216.png)
+
 **Price: ₹500 – ₹700** | Rating: 4.4/5  
 
 A simple and efficient keyboard with multimedia keys and silent typing.
@@ -67,6 +69,8 @@ A simple and efficient keyboard with multimedia keys and silent typing.
 ---
 
 ### 3. EvoFox Fireblade TKL Semi-Mechanical Keyboard — Best for Gaming
+
+![Evofox Fireblade Keyboard](/images/evofox-fireblade.png)
 
 **Price: ₹700 – ₹999** | Rating: 4.2/5  
 
@@ -89,6 +93,8 @@ A compact gaming keyboard with RGB lighting and semi-mechanical feel.
 
 ### 4. Ant Esports KM1400 Pro Gaming Keyboard — Best Budget Gaming Pick
 
+![Ant Esports KM1400 Pro Keyboard](/images/ant-esports-km1400-pro.png)
+
 **Price: ₹599 – ₹699** | Rating: 4.1/5  
 
 A popular gaming keyboard with backlit keys and decent performance.
@@ -109,6 +115,8 @@ A popular gaming keyboard with backlit keys and decent performance.
 ---
 
 ### 5. Portronics Bubble 3.0 Wireless Keyboard — Best Wireless Option
+
+![Portronics Bubble 3.0 Keyboard](/images/portronics-bubble-3.0.png)
 
 **Price: ₹799 – ₹999** | Rating: 4.0/5  
 
@@ -131,6 +139,8 @@ A compact wireless keyboard perfect for a clean and minimal desk setup.
 
 ### 6. EvoFox Deathray v2 Pro Gaming Keyboard — Best for Style
 
+![EvoFox Deathray v2 Pro Gaming Keyboard](/images/evofox-deathray.png)
+
 **Price: ₹800 – ₹999** | Rating: 4.1/5  
 
 A stylish keyboard with RGB lighting and decent gaming performance.
@@ -151,6 +161,8 @@ A stylish keyboard with RGB lighting and decent gaming performance.
 ---
 
 ### 7. Ant Esports MK1450 Pro — Best Value Pick
+
+![Ant Esports MK1450 Pro Keyboard](/images/ant-esports-mk1450-pro.png)
 
 **Price: ₹700 – ₹900** | Rating: 4.0/5  
 
@@ -173,6 +185,8 @@ A solid keyboard offering good performance at a low price.
 
 ### 8. Ant Esports MK1700 RGB Wired Gaming Keyboard — Best RGB Experience
 
+![Ant Esports MK1700 Keyboard](/images/ant-esports-mk1700.png)
+
 **Price: ₹600 – ₹800** | Rating: 4.2/5  
 
 A gaming keyboard with full RGB lighting and solid performance.
@@ -194,6 +208,8 @@ A gaming keyboard with full RGB lighting and solid performance.
 
 ### 9. HP K260 Wireless Keyboard — Best for Portability
 
+![HP K260 Wireless Keyboard](/images/hp-k260.png)
+
 **Price: ₹700 – ₹900** | Rating: 4.1/5  
 
 A reliable wireless keyboard suitable for everyday tasks.
@@ -214,6 +230,8 @@ A reliable wireless keyboard suitable for everyday tasks.
 ---
 
 ### 10. Lenovo 210 USB-A Wireless Multimedia Keyboard — Best for Productivity
+
+![Lenovo 210 USB-A Wireless Multimedia Keyboard](/images/lenovo-210.png)
 
 **Price: ₹900 – ₹1000** | Rating: 4.1/5  
 
