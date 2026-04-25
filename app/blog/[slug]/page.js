@@ -165,7 +165,7 @@ export default function BlogPostPage({ params }) {
                 src={src}
                 alt={alt || ''}
                 width={500}
-                height={300}
+                height={500}
                 className="rounded-xl"
                  />
                 </div>
