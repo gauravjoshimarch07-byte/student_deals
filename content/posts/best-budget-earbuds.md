@@ -22,6 +22,8 @@ The problem? Most earbuds at ₹1000 used to be... trash. But 2026 is different.
 
 ### 1. boAt Airdopes 141 — Best Overall
 
+![boAt Airdopes 141](/images/boat-airdopes-141.png)
+
 **Price: ₹799** | Rating: 4.5/5
 
 The boAt Airdopes 141 is the king of budget earbuds in India — and for good reason.
@@ -46,7 +48,9 @@ The boAt Airdopes 141 is the king of budget earbuds in India — and for good re
 
 ### 2. Realme Buds T110 — Best Battery Life
 
-**Price: ₹999** | Rating: 4.2/5
+![Realme Buds T110](/images/realme-buds-t110.png)
+
+**Price: ₹999-₹1199** | Rating: 4.2/5
 
 Realme's budget offering punches way above its price tag. The T100 offers insane value with 28 hours of total battery life and surprisingly good call quality.
 
@@ -63,11 +67,13 @@ Realme's budget offering punches way above its price tag. The T100 offers insane
 
 **Best for:** Students who take a lot of calls
 
-[Check Price on Amazon →](https://amzn.to/4ciI4Lf)
+[Check Price on Amazon →](https://amzn.to/3QtWkcS)
 
 ---
 
 ### 3. GOBOULT Z20 — Best for Gaming & Battery Backup
+
+![GOBOULT Z20](/images/goboult-z20.png)
 
 **Price: ₹699 – ₹799** | Rating: 4.2/5  
 
@@ -92,6 +98,8 @@ GOBOULT Z20 earbuds are a strong budget option offering a great mix of battery l
 
 ### 4. Noise Buds VS104 — Best Design
 
+![Noise Buds VS104](/images/noise-buds-vs104.png)
+
 **Price: ₹999** | Rating: 4.0/5
 
 If you want your earbuds to look good AND sound decent, Noise delivers. The VS104 comes in some amazing colorways and has a satisfying premium feel.
@@ -114,6 +122,8 @@ If you want your earbuds to look good AND sound decent, Noise delivers. The VS10
 ---
 
 ### 5. Noise Buds Trance — Best for Battery Backup
+
+![ Noise Buds Trance](/images/noise-buds-trance.png)
 
 **Price: ₹899 – ₹999** | Rating: 4.2/5  
 

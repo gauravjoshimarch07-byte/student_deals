@@ -22,6 +22,8 @@ Here are the **5 best laptops under ₹50,000** that we'd actually recommend to 
 
 ### 1. Acer Aspire Lite (Ryzen 5 5500U) — Best Overall
 
+![Acer Aspire Lite](/images/acer-aspire-lite.png)
+
 **Price: ₹44,990** | Rating: 4.6/5
 
 The Acer Aspire Lite with Ryzen 5 5500U is the gold standard of budget student laptops. Great performance, long battery life, and a surprisingly premium design.
@@ -55,6 +57,8 @@ The Acer Aspire Lite with Ryzen 5 5500U is the gold standard of budget student l
 
 ### 2. Lenovo IdeaPad Slim 3 — Best Brand Reliability
 
+![Lenovo IdeaPad Slim 3](/images/lenovo-ideapad-slim-3.png)
+
 **Price: ₹46,990** | Rating: 4.5/5
 
 Lenovo's IdeaPad lineup is legendary for durability and keyboard quality. The Slim 3 continues that tradition with a solid chassis and excellent typing experience.
@@ -77,6 +81,8 @@ Lenovo's IdeaPad lineup is legendary for durability and keyboard quality. The Sl
 ---
 
 ### 3. HP 15s (AMD Ryzen 5) — Best for Everyday Use
+
+![HP 15s Laptop](/images/hp-15s.png)
 
 **Price: ₹46,900** | Rating: 4.3/5
 
@@ -101,6 +107,8 @@ HP's 15s series is a solid, no-nonsense laptop that just works. HP's service net
 
 ### 4. ASUS Vivobook Go 15 — Best Display
 
+![ ASUS Vivobook Go 15 Laptop](/images/asus-vivobook-go-15.png)
+
 **Price: ₹48,490** | Rating: 4.4/5
 
 ASUS builds the best displays in budget laptops. The Vivobook 15's 1080p IPS panel with 250 nits brightness is noticeably better than competitors — great if you spend hours reading and watching content.
@@ -123,6 +131,8 @@ ASUS builds the best displays in budget laptops. The Vivobook 15's 1080p IPS pan
 ---
 
 ### 5. MSI Modern 14 — Best for Portability
+
+![ MSI Modern 14 Laptop](/images/msi-modern-14.png)
 
 **Price: ₹48,950** | Rating: 4.2/5
 
