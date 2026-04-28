@@ -160,17 +160,16 @@ export default function BlogPostPage({ params }) {
                   </a>
                 ),
                  img: ({ src, alt }) => (
-                <div className="my-6 flex justify-center">
+                <div className="relative w-full h-64 my-6 rounded-xl overflow-hidden bg-white">
                 <Image
                 src={src}
                 alt={alt || ''}
-                width={500}
-                height={500}
-                className="rounded-xl"
+                fill
+                className="object-contain"
                  />
                 </div>
 ),
-              }
+              }}
             >
               {post.content}
             </ReactMarkdown>
@@ -228,4 +227,4 @@ export default function BlogPostPage({ params }) {
       </div>
     </>
   );
-}
+} 
