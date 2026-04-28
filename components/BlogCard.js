@@ -18,7 +18,7 @@ export default function BlogCard({ post, featured = false }) {
       <article className={`card overflow-hidden h-full flex flex-col ${featured ? 'md:flex-row' : ''}`}>
         {/* Thumbnail */}
         <div className={`relative overflow-hidden bg-cream-warm ${featured ? 'md:w-2/5 md:flex-shrink-0' : ''}`}>
-          <div className={`${featured ? 'h-52 md:h-full' : 'h-48'} relative`}>
+          <div className="h-64 relative">
             <Image
               src={post.thumbnail || 'https://images.unsplash.com/photo-1512820790803-83ca734da794?w=800&q=75'}
               alt={post.title}
