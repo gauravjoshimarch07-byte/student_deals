@@ -50,6 +50,8 @@ Affordable products help you:
 
 ### 1. Boat BassHeads 100 Wired Earphones
 
+![boAt BassHeads 100](/images/boat-bassheads-100.png)
+
 **Approx Price:** ₹399 – ₹599
 
 A must-have for every student — whether it's online classes, music, or calls.
@@ -64,7 +66,7 @@ A must-have for every student — whether it's online classes, music, or calls.
 **Why it’s good for students:**
 Perfect for attending lectures, watching videos, or relaxing with music.
 
-👉 🔗 Check Latest Price on Amazon
+[Check Price on Amazon →](https://amzn.to/4elVJnc)
 
 👉 Want more options? 
 👉 [Best Earphones Under ₹1000 for Students](/blog/best-earphones-under-1000)
@@ -72,6 +74,8 @@ Perfect for attending lectures, watching videos, or relaxing with music.
 ---
 
 ### 2. Zebronics Zeb-Transformer Gaming Keyboard
+
+![Zebronics Zeb-Transformer Gaming Keyboard](/images/zebronics-zeb.png)
 
 **Approx Price:** ₹999 – ₹1099
 
@@ -96,6 +100,8 @@ Great for typing assignments, coding, or casual gaming.
 
 ### 3. Portronics POR-343 USB Hub
 
+![ Portronics POR-343 USB Hub](/images/portronics-usb-hub.png)
+
 **Approx Price:** ₹499 – ₹599
 
 Running out of USB ports? This solves that problem instantly.
@@ -115,6 +121,8 @@ Ideal for connecting multiple devices at once.
 ---
 
 ### 4. Wipro Re-Chargeable LED Table Lamp
+
+![ Wipro Re-Chargeable LED Table Lamp](/images/wipro-table-lamp.png)
 
 **Approx Price:** ₹500 – ₹800
 
@@ -139,6 +147,8 @@ Reduces eye strain during long study hours.
 
 ### 5. Noise Pulse Go Buzz Smartwatch (Deals)
 
+![ Noise Pulse Go Buzz Smartwatch](/images/noise-pulse-smartwatch.png)
+
 **Approx Price:** Around ₹1500 (during offers)
 
 A smartwatch under ₹1500? Yes, if you grab the right deal.
@@ -158,6 +168,8 @@ Helps you stay active and connected.
 ---
 
 ### 6. Amazon Basics Laptop Sleeve (15.6 inch)
+
+![Amazon Basics Laptop Sleeve](/images/laptop-bag.png)
 
 **Approx Price:** ₹300 – ₹500
 
@@ -179,6 +191,8 @@ Keeps your laptop safe while traveling.
 
 ### 7. Classmate Pulse Notebook Pack
 
+![Classmate Pulse Notebook Pack](/images/classmate-notebook.png)
+
 **Approx Price:** ₹200 – ₹500
 
 You’ll always need notebooks — why not get quality ones?
@@ -193,11 +207,13 @@ You’ll always need notebooks — why not get quality ones?
 **Why it’s good for students:**
 Perfect for daily notes and assignments.
 
-[Check Price on Amazon →](https://amzn.to/3O0amCe)
+[Check Price on Amazon →](https://amzn.to/4cBqh3j)
 
 ---
 
 ### 8. HP M10 Wired USB Mouse 
+
+![HP M10 Wired USB Mouse](/images/hp-m10.png)
 
 **Approx Price:** ₹250 – ₹350
 
@@ -218,6 +234,8 @@ Better control than touchpad for long usage.
 ---
 
 ### 9. Portronics Power Brick 10K Power Bank
+
+![Portronics Power Brick 10K Power Bank](/images/portronics-powerbank.png)
 
 **Approx Price:** ₹699 – ₹799
 
@@ -242,6 +260,8 @@ Perfect for college, travel, and daily use.
 
 ### 10. Boldfit Gym Resistance Bands
 
+![ Boldfit Gym Resistance Bands](/images/boldfit-band.png)
+
 **Approx Price:** ₹300 – ₹800
 
 Health matters too.
@@ -265,7 +285,7 @@ Stay fit without spending on gym memberships.
 Want more options? Dive deeper into each category:
 
 * 🎧 [Best Earphones Under ₹1000](/blog/best-earphones-under-1000)
-* ⌨️ [Best Keyboards Under ₹1000](#)
+* ⌨️ [Best Keyboards Under ₹1000](/blog/best-budget-keyboards)
 * 🔋 [Best Power Banks Under ₹1000](#)
 * 💡 [Best Study Lamps Under ₹1000](#)
 

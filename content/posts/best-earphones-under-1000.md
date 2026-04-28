@@ -38,6 +38,8 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 ### 1. boAt BassHeads 100 (Best Overall)
 
+![boAt BassHeads 100](/images/boat-bassheads-100.png)
+
 **Price:** ₹299 – ₹399  
 
 - Deep bass sound  
@@ -51,6 +53,8 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 ---
 
 ### 2. boAt BassHeads 225 (Best Stylish Pick)
+
+![boAt BassHeads 225](/images/boat-bassheads-225.png)
 
 **Price:** ₹399 – ₹599  
 
@@ -66,6 +70,8 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 ### 3. Realme Buds 2 Neo (Best Sound Quality)
 
+![Realme Buds 2 Neo](/images/buds-2-neo.png)
+
 **Price:** ₹499 – ₹699  
 
 - Balanced + punchy bass  
@@ -79,6 +85,8 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 ---
 
 ### 4. JBL C50HI (Best Brand Trust)
+
+![JBL C50HI](/images/jbl-c50hi.png)
 
 **Price:** ₹499 – ₹699  
 
@@ -94,6 +102,8 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 ### 5. Sony MDR-EX15AP (Best for Clarity)
 
+![Sony MDR-EX15AP](/images/sony-mdr.png)
+
 **Price:** ₹699 – ₹999  
 
 - Crystal clear vocals  
@@ -102,11 +112,13 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 👉 Best for lectures & calls
 
-[Check Price on Amazon →](https://amzn.to/4vndmJp)
+[Check Price on Amazon →](https://amzn.to/3QBjVIC)
 
 ---
 
 ### 6. boAt BassHeads 225 (Best Bass Lovers)
+
+![boAt BassHeads 225](/images/boat-bassheads-225.png)
 
 **Price:** ₹399 – ₹599  
 
@@ -122,6 +134,8 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 ### 7. Boult Audio BassBuds X1 (Best for Calls)
 
+![Boult Audio BassBuds X1](/images/goboult-x1.png)
+
 **Price:** ₹299 – ₹499  
 
 - Good mic quality  
@@ -135,6 +149,8 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 ---
 
 ### 8. Noise Buds VS102 Neo (Budget Wireless Pick)
+
+![Noise Buds VS102 Neo](/images/noise-buds-vs102.png)
 
 **Price:** Around ₹999 - ₹1199 (on deals)
 
@@ -150,6 +166,8 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 
 ### 9. Realme Wired Buds 3 (Best Basic Use)
 
+![Realme Wired Buds 3](/images/realme-buds-3.png)
+
 **Price:** ₹399 – ₹599  
 
 - Simple & reliable  
@@ -163,6 +181,8 @@ So here are the **10 best earphones under ₹1000** that are easily available on
 ---
 
 ### 10. Portronics Conch Beta (Best Budget Pick)
+
+![Portronics Conch Beta](/images/portronics-conch.png)
 
 **Price:** ₹299 – ₹499  
 
