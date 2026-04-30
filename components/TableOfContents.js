@@ -27,7 +27,7 @@ export default function TableOfContents({ headings }) {
   if (!headings?.length) return null;
 
   return (
-    <nav className="card p-5 sticky top-20">
+   <nav className="card p-5">
       <h3 className="font-display font-bold text-sm text-ink uppercase tracking-wider mb-4 flex items-center gap-2">
         <span className="w-1 h-4 bg-brand-500 rounded-full inline-block" />
         Table of Contents

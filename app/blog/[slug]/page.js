@@ -135,7 +135,7 @@ export default function BlogPostPage({ params }) {
 
       {/* Main content */}
       <div className="container-site max-w-4xl">
-        <div className="lg:grid lg:grid-cols-[1fr_260px] lg:gap-10 items-start">
+       <div className="lg:grid lg:grid-cols-[1fr_260px] lg:gap-10 items-stretch">
           {/* Article body */}
           <article className="prose-blog min-w-0">
             <ReactMarkdown
@@ -176,7 +176,7 @@ export default function BlogPostPage({ params }) {
           </article>
 
           {/* Sidebar */}
-          <aside className="hidden lg:block space-y-6">
+          <aside className="hidden lg:block space-y-6 self-start">
             {headings.length > 0 && <TableOfContents headings={headings} />}
 
             {/* Sticky deals widget */}
