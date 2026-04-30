@@ -1,6 +1,7 @@
 import { getAllPosts, getAllCategories } from '@/lib/getPosts';
 import BlogClient from './BlogClient';
 
+// This section stays here so Google can read your site (SEO)
 export const metadata = {
   title: 'All Articles — Budget Product Reviews for Students',
   description: 'Browse all our student budget product reviews and buying guides. Find the best deals on tech, study essentials, lifestyle picks and more.',
@@ -12,7 +13,6 @@ export default function BlogPage() {
 
   return (
     <div className="container-site py-12">
-      {/* Page header */}
       <div className="text-center mb-12">
         <div className="inline-flex items-center gap-2 badge-orange mb-4">📝 All Articles</div>
         <h1 className="font-display font-extrabold text-3xl sm:text-4xl text-ink mb-3">
@@ -23,6 +23,7 @@ export default function BlogPage() {
         </p>
       </div>
 
+      {/* This component will now handle all the "Interactive" search stuff */}
       <BlogClient posts={posts} categories={categories} />
     </div>
   );
