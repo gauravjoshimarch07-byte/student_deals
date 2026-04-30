@@ -105,6 +105,7 @@ export default function HomePage() {
             </div>
 
             {/* Social proof */}
+            {/*
             <div className="flex items-center justify-center gap-6 mt-10 animate-fade-up animate-on-load delay-500">
               {[
                 { value: '50+', label: 'Products Reviewed' },
@@ -117,6 +118,7 @@ export default function HomePage() {
                 </div>
               ))}
             </div>
+            */}
           </div>
         </div>
       </section>
