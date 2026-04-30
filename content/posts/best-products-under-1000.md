@@ -1,6 +1,6 @@
 ---
-title: "Best Products Under ₹1000 for Students in India (2026)"
-date: "2026-04-11"
+title: "Best Products Under ₹1000 for Students in India (2025)"
+date: "2025-04-11"
 category: "Tech"
 description: "Discover the best products under ₹1000 for students in India. From budget gadgets to study essentials, explore top picks that deliver great value without breaking your budget."
 thumbnail: "/images/products-under-1000.jpg"
@@ -8,15 +8,15 @@ tags: ["under-1000", "student deals", "budget gadgets", "tech", "study essential
 featured: true
 ---
 
-# Best Products Under ₹1000 for Students in India (2026) – Top Budget Picks That Are Totally Worth It
+# Best Products Under ₹1000 for Students in India (2025) – Top Budget Picks That Are Totally Worth It
 
 Being a student in India isn’t easy — especially when you’re trying to manage studies, lifestyle, and budget all at once. From online classes and assignments to entertainment and daily essentials, you need products that are useful but don’t burn your pocket.
 
 The good news? You don’t need to spend thousands to upgrade your daily life.
 
-In this guide, we’ve handpicked the **best products under ₹1000 for students in India (2026)** — from tech gadgets to daily essentials — that offer great value for money.
+In this guide, we’ve handpicked the **best products under ₹1000 for students in India (2025)** — from tech gadgets to daily essentials — that offer great value for money.
 
-> 🔥 Updated for 2026: This list is curated based on latest pricing, deals, and real student needs.
+> 🔥 Updated for 2025: This list is curated based on latest pricing, deals, and real student needs.
 
 ---
 

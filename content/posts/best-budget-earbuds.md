@@ -1,6 +1,6 @@
 ---
-title: "5 Best Budget Earbuds for Students Under ₹1000 (2026)"
-date: "2026-06-15"
+title: "5 Best Budget Earbuds for Students Under ₹1000 (2025)"
+date: "2025-06-15"
 category: "Tech"
 description: "Looking for great sound without burning a hole in your pocket? We tested 20+ earbuds under ₹1000 so you don't have to. Here are the top 5 picks for students."
 thumbnail: "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&q=75"
@@ -12,7 +12,7 @@ featured: true
 
 Whether you're grinding through lectures, drowning out your noisy hostel corridor, or just vibing to music during long commutes — a good pair of earbuds is a student essential.
 
-The problem? Most earbuds at ₹1000 used to be... trash. But 2026 is different. Chinese audio brands and Indian budget labels have absolutely destroyed the price-to-performance game.
+The problem? Most earbuds at ₹1000 used to be... trash. But 2025 is different. Chinese audio brands and Indian budget labels have absolutely destroyed the price-to-performance game.
 
 **We tested 20+ earbuds under ₹1000 over 4 weeks.** Here are the only 5 that actually deserve your money.
 

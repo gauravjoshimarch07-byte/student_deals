@@ -1,6 +1,6 @@
 ---
 title: "7 Best Notebooks for Students Under ₹200 — Tested & Ranked"
-date: "2026-06-10"
+date: "2025-06-10"
 category: "Study"
 description: "Your notebook is your second brain. We tested 15+ notebooks under ₹200 for paper quality, durability, and value. Here are the 7 that actually made the cut."
 thumbnail: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=800&q=75"

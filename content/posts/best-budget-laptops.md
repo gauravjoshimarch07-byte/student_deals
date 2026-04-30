@@ -1,6 +1,6 @@
 ---
-title: "Best Budget Laptops for Students Under ₹50,000 in 2026"
-date: "2026-06-20"
+title: "Best Budget Laptops for Students Under ₹50,000 in 2025"
+date: "2025-06-20"
 category: "Tech"
 description: "Buying a laptop on a student budget is hard. We shortlisted the 5 best laptops under ₹50,000 that don't compromise on performance, battery, or build quality."
 thumbnail: "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&q=75"
@@ -12,7 +12,7 @@ featured: true
 
 A laptop is the single biggest purchase most students make. Get it wrong, and you'll suffer through 4 years of lag, dead batteries, and broken hinges.
 
-The ₹25,000–₹35,000 range in 2026 is genuinely excellent. AMD Ryzen 5000/7000 series chips have transformed budget laptops — you can now get genuine productivity performance at student-friendly prices.
+The ₹50,000 range in 2025 is genuinely excellent. AMD Ryzen 5000/7000 series chips have transformed budget laptops — you can now get genuine productivity performance at student-friendly prices.
 
 Here are the **5 best laptops under ₹50,000** that we'd actually recommend to a friend.
 
@@ -171,9 +171,9 @@ If you commute daily and carry your laptop everywhere, the MSI Modern 14 is your
 
 **Processor:** Ryzen 5 5000/7000 series is the sweet spot. Avoid Intel i3 — the Ryzen 5 outperforms it in real-world tasks.
 
-**RAM:** 8GB minimum in 2026. Make sure it's upgradeable — buy a laptop where you can add another 8GB stick later.
+**RAM:** 8GB minimum in 2025. Make sure it's upgradeable — buy a laptop where you can add another 8GB stick later.
 
-**Storage:** 512GB SSD is the minimum. SSDs are 5–10x faster than HDDs — never buy an HDD laptop in 2026.
+**Storage:** 512GB SSD is the minimum. SSDs are 5–10x faster than HDDs — never buy an HDD laptop in 2025.
 
 **Display:** Look for IPS or FHD (1080p) panels. TN panels look washed out and should be avoided.
 
@@ -186,7 +186,7 @@ If you commute daily and carry your laptop everywhere, the MSI Modern 14 is your
 **Q: Should I buy a laptop with dedicated GPU for college?**
 A: Only if you're in game development, video editing, or animation. For most students — engineering, commerce, arts — an integrated GPU is perfectly fine.
 
-**Q: Is 8GB RAM enough for students in 2026?**
+**Q: Is 8GB RAM enough for students in 2025?**
 A: Yes, for most tasks. But buy a laptop where RAM is upgradeable so you can add 8GB more as needed.
 
 **Q: Which is better — AMD Ryzen or Intel Core for students?**
@@ -205,4 +205,4 @@ A: Light editing (short clips, basic color correction) in DaVinci Resolve or Pre
 
 **Best brand trust:** Lenovo IdeaPad Slim 3 — The keyboard alone justifies the price for heavy typers.
 
-Choose based on your specific use case — and never, ever buy a laptop with a spinning hard drive in 2026. 💻
+Choose based on your specific use case — and never, ever buy a laptop with a spinning hard drive in 2025. 💻

@@ -1,6 +1,6 @@
 ---
-title: "10 Best Keyboards Under ₹1000 for Students in India (2026)"
-date: "2026-06-15"
+title: "10 Best Keyboards Under ₹1000 for Students in India (2025)"
+date: "2025-06-15"
 category: "Tech"
 description: "Looking for the best keyboards under ₹1000? Here are the top 10 budget keyboards for students in India — perfect for typing, gaming, and daily use."
 thumbnail: "/images/keyboards-under-1000.jpg"
@@ -8,13 +8,13 @@ tags: ["under-1000", "keyboards", "budget tech", "students"]
 featured: false
 ---
 
-# Best Keyboards Under ₹1000 for Students in India (2026)
+# Best Keyboards Under ₹1000 for Students in India (2025)
 
 Finding a good keyboard under ₹1000 can be tricky. As a student, you need something that is **comfortable, durable, and reliable** — whether it’s for typing assignments, attending classes, or casual gaming.
 
 The good news? You don’t need to spend a lot.
 
-In this guide, we’ve handpicked the **best keyboards under ₹1000 for students in India (2026)** based on performance, build quality, and value for money.
+In this guide, we’ve handpicked the **best keyboards under ₹1000 for students in India (2025)** based on performance, build quality, and value for money.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "10 Best Earphones Under ₹1000 for Students in India (2026)"
-date: "2026-04-11"
+title: "10 Best Earphones Under ₹1000 for Students in India (2025)"
+date: "2025-04-11"
 category: "Tech"
 description: "Discover the 10 best earphones under ₹1000 for students in India. Top budget picks with great sound, mic quality, and durability — perfect for daily use."
 thumbnail: "/images/earphones-under-1000.jpg"
@@ -8,7 +8,7 @@ tags: ["earphones under 1000", "budget earphones", "student gadgets", "cheap ear
 featured: false
 ---
 
-# 🎧 10 Best Earphones Under ₹1000 for Students in India (2026)
+# 🎧 10 Best Earphones Under ₹1000 for Students in India (2025)
 
 Finding reliable earphones under ₹1000 is not easy — especially when you want durability, sound quality, and comfort together.
 
